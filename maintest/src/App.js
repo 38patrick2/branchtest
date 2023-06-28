@@ -18,7 +18,11 @@ function App() {
           Learn React
         </a>
       </header>
+      <div>
+        <img src="C:\Users\patri\GitProjectDatabase\branchtestproject\maintest\public\download.jpg"></img> 
+      </div>
     </div>
+
   );
 }
 
