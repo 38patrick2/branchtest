@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <div>
-        <img src="C:\Users\patri\GitProjectDatabase\branchtestproject\maintest\public\download.jpg"></img> 
+        <img src="../../download.jpg" alt="image" width="500" height="600"></img> 
       </div>
     </div>
 
