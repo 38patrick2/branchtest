@@ -11,7 +11,17 @@ function App() {
         </p>
         
       </header>
+      <div>
+        <img src="../../download.jpg" alt="image" width="500" height="600"></img> 
+      </div>
+
+
+      <div>
+        <img src="../../img.png"alt="image2" width="500" height="600"></img> 
+      </div>
+
     </div>
+
   );
 }
 
